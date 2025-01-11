@@ -53,12 +53,19 @@ This repository documents the testing and ranking of N20 motors for use in box t
 - **Heat Under Normal Operation**: Lower temperature rise receives higher scores.
 - **Heat Under Stall Condition**: Lower temperature rise receives higher scores.
 
-### Example Ranking Table
-| Motor Model     | RPM Accuracy | Noise (dB) | Stall Current (mA) | Heat Normal (°C) | Heat Stall (°C) | Total Score |
-|-----------------|--------------|------------|---------------------|---------------------|-------------------|-------------|
-| N20-A          | 9            | 8          | 7                   | 9                   | 6                 | 39          |
-| N20-B          | 10           | 6          | 8                   | 8                   | 7                 | 39          |
-| N20-C          | 8            | 7          | 9                   | 7                   | 8                 | 39          |
+### Test Results and Rankings
+| Motor Model                                        | RPM Accuracy | Noise (dB) | Stall Current (mA) | Heat Normal (°C) | Heat Stall (°C) | Total Score |
+|---------------------------------------------------|--------------|------------|---------------------|---------------------|-------------------|-------------|
+| [Motor 1](https://fr.aliexpress.com/item/1005007573764916.html) | 5            | 6          | TBD                 | TBD                 | TBD               | TBD         |
+| [Motor 2](https://fr.aliexpress.com/item/1005005480039032.html) | 10           | 7          | TBD                 | TBD                 | TBD               | TBD         |
+| [Motor 3](https://fr.aliexpress.com/item/32922112793.html)       | 10           | 8          | TBD                 | TBD                 | TBD               | TBD         |
+| [Motor 4](https://fr.aliexpress.com/item/1005006785073459.html)  | 10           | 6          | TBD                 | TBD                 | TBD               | TBD         |
+
+### Notes
+- **Motor 1**: Speed is 250 RPM and noise is measured at >30 dB.
+- **Motor 2**: Speed is 500 RPM and noise is measured at >25 dB.
+- **Motor 3**: Speed is 500 RPM and noise is measured at >20 dB.
+- **Motor 4**: Speed is 500 RPM and noise is measured at >30 dB.
 
 ## Contributions
 
